@@ -22,4 +22,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/amarshankarc/healthcare.git
-cd machine_on_ui
+cd healthcare
